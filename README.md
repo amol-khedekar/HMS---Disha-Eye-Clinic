@@ -2,17 +2,7 @@
 Disha Eye Care - This is Hospital Management system built for single clinic that helps clinic staffs for easy and better operations. It is comprised of user roles like patient, receptionist, doctor.
 * Web app allows users to book appointment using OTP verification avoiding the need of having account with the system. Patient can see their appointment history as well along with Bill Reciept.
 * For Management members like Receptionist, Doctor, Admin - these much are different roles available. These users can login with their email and password to system and they can access their respective Dashboard where they can manage data they are allowed to.
-* Various tasks Doctor perform
-  - See their patients who have booked appointments with them
-  - Add or Update or Remove Time Slot for booking
-  - Manage profile like Certification, Profile photo and other demographics
-  - See the daily metrics like Daily Appointment booked, Completed,etc.
-* Various tasks Receptionist perform
-  - Manage patients
-  - Manage Doctors
-  - Manage appointments
-  - Generate bill reciepts for appointments
-  - Manage profile
+
 * Admin can manage all data.
 * Backend - Python  Django REST  MySQL
 * Frontend - HTML CSS Javascript
@@ -42,3 +32,16 @@ Disha Eye Care - This is Hospital Management system built for single clinic that
 ![Screenshot from 2022-05-30 15-34-46](https://user-images.githubusercontent.com/108868936/178294999-8bf22d1c-f754-489e-beb0-61f62498f5c8.png)
 ![Screenshot from 2022-05-30 15-34-49](https://user-images.githubusercontent.com/108868936/178295003-88414d5a-f604-4938-9bfd-f8fdc7b18176.png)
 ![Screenshot from 2022-05-30 15-35-05](https://user-images.githubusercontent.com/108868936/178295007-25c1e00e-f5d7-43df-a99f-fabca940471d.png)
+
+
+* Various tasks Doctor perform
+  - See their patients who have booked appointments with them
+  - Add or Update or Remove Time Slot for booking
+  - Manage profile like Certification, Profile photo and other demographics
+  - See the daily metrics like Daily Appointment booked, Completed,etc.
+* Various tasks Receptionist perform
+  - Manage patients
+  - Manage Doctors
+  - Manage appointments
+  - Generate bill reciepts for appointments
+  - Manage profile
